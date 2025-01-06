@@ -1,5 +1,7 @@
 # Prediction_Project_Data_Analytic
+
 **Bank Churn Prediction Project**
+
 **Project Description**
 This project focuses on predicting customer churn in a bank using a classification model. The dataset used is publicly available from the YBI Foundation, containing customer details and their churn status. The project involves various stages such as data analysis, data preprocessing, handling class imbalance, and building a machine learning model using Support Vector Machine (SVM) with hyperparameter tuning.
 
